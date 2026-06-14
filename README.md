@@ -30,7 +30,7 @@ AI-Powered Enterprise Meeting & Collaboration Platform built with the MERN stack
 - **shadcn/ui**: High-quality, accessible UI components.
 - **sonner**: Beautiful and customizable toast notifications.
 
-## Features
+## Features...
 
 - **Participants List**: Real-time list of all users in the meeting with host identification.
 - **Meeting History**: Track and view previous meeting data and codes from your dashboard.
