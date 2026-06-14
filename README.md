@@ -36,7 +36,7 @@ AI-Powered Enterprise Meeting & Collaboration Platform built with the MERN stack
 - **Meeting History**: Track and view previous meeting data and codes from your dashboard.
 - **Persistent Chat**: In-meeting chat with history powered by Redis and MongoDB.
 - **Secure Auth**: JWT-based authentication with secure cookie-based refresh tokens.
-- **Responsive Grid**: Adaptive video gallery that adjusts to participant count.
+- **Responsive Grid**: Adaptive video gallery that adjusts to participant count..
 
 ## Setup
 
