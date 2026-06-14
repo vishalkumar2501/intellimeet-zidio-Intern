@@ -21,7 +21,7 @@ AI-Powered Enterprise Meeting & Collaboration Platform built with the MERN stack
 - **redis**: In-memory data structures store used for ultra-fast caching.
 - **@socket.io/redis-adapter**: Allows real-time events to work across multiple server instances.
 
-## Frontend Dependencies
+## Frontend Dependencies...
 
 - **React 19**: Modern UI library with hooks.
 - **Zustand**: Lightweight and scalable state management.
