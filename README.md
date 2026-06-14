@@ -38,7 +38,7 @@ AI-Powered Enterprise Meeting & Collaboration Platform built with the MERN stack
 - **Secure Auth**: JWT-based authentication with secure cookie-based refresh tokens.
 - **Responsive Grid**: Adaptive video gallery that adjusts to participant count..
 
-## Setup
+## Setup...
 
 1. Clone the repository.
 2. Setup environment variables:
